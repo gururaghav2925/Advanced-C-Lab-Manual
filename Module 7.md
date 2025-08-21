@@ -61,7 +61,7 @@ To write a C program for passing structure as function and returning a structure
 6.	Print the result returned by the add function.
 7.	Return 0
  
-Program:
+# Program:
 ```c
 #include<stdio.h> 
 struct numbers 
